@@ -100,4 +100,4 @@ This could
 We believe with the relatively larger dataset and avaliable time data my partner and I would find more attributes to analyze and better content to present. 
 
 ### Appendix 
-we are happy to provide our code for your convience. Here is the link: https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/finalproject.ipynb
+we are happy to provide our code for your convience. Here is the <a href="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/finalproject.ipynb">link</a>
