@@ -1,4 +1,4 @@
-<a href="/">Home</a>
+<a href="/STA141B">Home</a>
 
 # Mr./ Trump/ Said 
 ## The analysis of trending words in the last week of February
