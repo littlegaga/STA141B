@@ -34,7 +34,7 @@ def getcontent(url):
 Text are stripped and analyzed after removing stopwords using the built-in function from Word Cloud. The result is presented in Word Cloud form.
 
 __The results:__
-<img width=400 src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/nyt.png?raw=true">
+<img src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/nyt.png?raw=true">
 
 The size of each word is correlated to its relative frequency in the whole text. The results showed that in the last week of February, Mr. Trump, the President clearly took the majority attention from NYT reporters and audiences. In addition, his opinions and statements are wildly reported as the word 'said' appears a lot.
 The U.S. is clearly focusing on Mr. Trump. However, across the Atlantic, people do not necessarily care about the same.
