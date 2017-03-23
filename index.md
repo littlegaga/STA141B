@@ -1,6 +1,7 @@
 ## Welcome to GitHub Page
 
 <a href="/STA141B/about">About</a>
+<a href="/STA141B/finalreport">STA 141B Final Project Report</a>
 
 You can use the [editor on GitHub](https://github.com/littlegaga/STA141B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
