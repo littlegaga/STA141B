@@ -2,6 +2,7 @@
 # Mr./ Trump/ Said 
 ## The analysis of trending words in the last week of February
 ##  Yuren Zhang, Zhihan Zhu 
+The complete code is provided <a href="https://github.com/littlegaga/STA141B/blob/master/finalproject.ipynb">here</a>
 ### 1. Why Do We Care?
 Trending words are good indicators of the current status. Higher word frequencies are positively correlated to more coverage and exposure. In other words, more people are talking or searching about this term. Also, trending words in a period of time efficiently described heat topics and important news during that period. 
 To find out what are the **current trending**  words (in the last week of February), my partner and I looked at two mainstream media: The New York Times (NYT) in the U.S. and the Guardians in the U.K. Using two sources from different countries lead to smaller bias. In addition, comparison between sources are also made avaliable. We found that the trending words from the two media varies significantly.
@@ -34,7 +35,8 @@ def getcontent(url):
 Text are stripped and analyzed after removing stopwords using the built-in function from Word Cloud. The result is presented in Word Cloud form.
 
 __The results:__
-<img width=400 src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/nyt.png?raw=true">
+
+<img src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/nyt.png?raw=true">
 
 The size of each word is correlated to its relative frequency in the whole text. The results showed that in the last week of February, Mr. Trump, the President clearly took the majority attention from NYT reporters and audiences. In addition, his opinions and statements are wildly reported as the word 'said' appears a lot.
 The U.S. is clearly focusing on Mr. Trump. However, across the Atlantic, people do not necessarily care about the same.
@@ -76,7 +78,7 @@ def getcontent_Guardian(url):
 
 __The results:__
 
-<img width=400 src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/guardian.png?raw=true">
+<img src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/guardian.png?raw=true">
 
 Although we still can see Trump on that picture, it is not the most popular thing that British people care. From those words such as "year", "new" and "time", we can have a guess that the Guardian focuses on the future, the plan of the country since February was still the beginning of 2017.
 
@@ -94,9 +96,5 @@ This could
 <ol>
 <li>increasing accuracy.</li>
 <li>potentially implementing an analysis of word frequency change against time.</li>
-<ol>
-
+</ol>
 We believe with the relatively larger dataset and avaliable time data my partner and I would find more attributes to analyze and better content to present. 
-
-### Appendix 
-we are happy to provide our code for your convience. Here is the link: https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/finalproject.ipynb
