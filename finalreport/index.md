@@ -76,7 +76,7 @@ def getcontent_Guardian(url):
 
 __The results:__
 
-<img width=400 src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/guardian.png?raw=true">
+<img src="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/guardian.png?raw=true">
 
 Although we still can see Trump on that picture, it is not the most popular thing that British people care. From those words such as "year", "new" and "time", we can have a guess that the Guardian focuses on the future, the plan of the country since February was still the beginning of 2017.
 
