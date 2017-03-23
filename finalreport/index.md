@@ -96,5 +96,5 @@ This could
 <ol>
 <li>increasing accuracy.</li>
 <li>potentially implementing an analysis of word frequency change against time.</li>
-<ol>
+</ol>
 We believe with the relatively larger dataset and avaliable time data my partner and I would find more attributes to analyze and better content to present. 
