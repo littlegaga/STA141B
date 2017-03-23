@@ -2,7 +2,7 @@
 
 <nav>
 <ul>
-<li><a href="/STA141B/about">About</a></li>
+<li><a href="/STA141B">Home</a></li>
 <li><a href="/STA141B/finalreport">Final Project Report</a></li>
 </ul>
 </nav>
