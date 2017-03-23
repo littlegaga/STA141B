@@ -1,4 +1,5 @@
 # Welcome to Zhihan Zhu's Data Science Page!
+Contact: __hzzhu@ucdavis.edu__
 
 <nav>
 <ul>
