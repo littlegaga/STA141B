@@ -1,41 +1,18 @@
 ## Welcome to GitHub Page
 
-<a href="/STA141B/about">About</a>
+<nav>
+<ul>
+<li><a href="/STA141B/about">About</a></li>
+<li><a href="/STA141B/finalreport">Final Project Report</a></li>
+</ul>
+</nav>
 
-<a href="/STA141B/finalreport">STA 141B Final Project Report</a>
+### About me
+I am a senior at UC Davis with Mathematical Analytics and Operations Research major and Statistics minor. I am impressed by the power of data, and I am interested in analysis data, and then use data to solve problems.
+This is a page specially for the final project course STA 141B, which uses python for data science. I really enjoyed the class! I have learned many practical knowlegde such as data visualization, web scrapping and text analysis.
 
-You can use the [editor on GitHub](https://github.com/littlegaga/STA141B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littlegaga/STA141B/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Skills
+<ul>
+<li>Programming: C, R, SAS, Matlab, Zimpl (Optimization), Python</li>
+<li>Software: Microsoft Word, Excel, SCIP (mixed Integer Programming solver)</li>
+</ul>
