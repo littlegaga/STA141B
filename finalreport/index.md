@@ -3,7 +3,7 @@
 # Mr./ Trump/ Said 
 ## The analysis of trending words in the last week of February
 ##  Yuren Zhang, Zhihan Zhu 
-The complete code is provided <a href="https://github.com/zyrr95/Final-Project-Sta-141B/blob/master/finalproject.ipynb">here</a>
+The complete code is provided <a href="https://github.com/littlegaga/STA141B/blob/master/finalproject.ipynb">here</a>
 ### 1. Why Do We Care?
 Trending words are good indicators of the current status. Higher word frequencies are positively correlated to more coverage and exposure. In other words, more people are talking or searching about this term. Also, trending words in a period of time efficiently described heat topics and important news during that period. 
 To find out what are the **current trending**  words (in the last week of February), my partner and I looked at two mainstream media: The New York Times (NYT) in the U.S. and the Guardians in the U.K. Using two sources from different countries lead to smaller bias. In addition, comparison between sources are also made avaliable. We found that the trending words from the two media varies significantly.
