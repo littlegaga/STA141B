@@ -1,4 +1,4 @@
-## Welcome to GitHub Page
+# Welcome to Zhihan Zhu's Data Science Page!
 
 <nav>
 <ul>
